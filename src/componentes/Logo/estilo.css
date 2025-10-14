@@ -1,0 +1,8 @@
+.logo {
+  display: flex; /*coloca os elemntos na horizontal*/
+  font-size: 30px;
+}
+
+.logo-img {
+  margin-right: 10px;
+}
